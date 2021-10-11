@@ -48,11 +48,11 @@ Für einige mp3s gibt es eigene commands :) Mit `!help` siehst du alle verfügba
 
 # Hinzufügen von Sounds / Namen / Zitaten / Befehlen
 
-Die Namen und Zitate sind in [json-files](./data/) gespeichert - du kannst diese beliebig ändern (PRs welcome).
+Die Namen und Zitate sind in [json-files](./src/data/) gespeichert - du kannst diese beliebig ändern (PRs welcome).
 
   
 
-Alle mp3-Dateien, die in [./src/data/clips/](./src/data/clips/) liegen, werden automatisch in die Zufallswiedergabe aufgenommen. Du kannst dir auch commands für einzelne Dateien bauen, siehe [main.py#133](./src/main.py#133).
+Alle mp3-Dateien, die in [./src/data/clips/](./src/data/clips/) liegen, werden automatisch in die Zufallswiedergabe aufgenommen. Du kannst dir auch commands für einzelne Dateien bauen, siehe [main.py#193](./src/main.py#193).
 
   
 
