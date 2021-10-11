@@ -1,6 +1,3 @@
-
-  
-
 # drachenlord-discord-bot
 
   
@@ -15,8 +12,16 @@ Dieser Bot scheißt dir zufällige Zitate vom Arschgebirge aus der Schimmelschan
 
 Sobald der Suppengumbo auf deinem Server online ist, kannst du ihn mit `!lord` heraufbeschwören. Je nachdem welche API-Permissions du gesetzt hast, funktioniert das in allen Text- und Voice-Channels (mehr dazu unter [Installation](#installation)).
 
-  ## Features
-  ✅ mehr als 200 Soundclips
+
+## TL;DR
+
+Einladungslink: [Meddl los!](https://discord.com/api/oauth2/authorize?client_id=716976896767950910&permissions=125304128&scope=bot)
+
+
+
+## Features
+
+  ✅ mehr als 500 Soundclips
 
   ✅ mehr als 100 Zitate
 
@@ -24,7 +29,6 @@ Sobald der Suppengumbo auf deinem Server online ist, kannst du ihn mit `!lord` h
 
 ![Drachenlord Chat](https://i.imgur.com/IGtD0VS.png)
 
-  
   
 
 # Befehle
@@ -38,7 +42,7 @@ Sobald der Suppengumbo auf deinem Server online ist, kannst du ihn mit `!lord` h
 
   
 
-Für einige mp3s gibt es eigene commands :)
+Für einige mp3s gibt es eigene commands :) Mit `!help` siehst du alle verfügbaren commands.
 
   
 
