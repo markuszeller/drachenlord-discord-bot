@@ -6,3 +6,4 @@ services:
       DISCORD_API_TOKEN: <your-discord-api-token>
       ENABLE_RANDOM_JOINS: "True"
       LOGGING_CHANNEL: <your-logging-textchannel-id-as-integer>
+      BLACKLISTED_GUILDS: "123x,456y"
